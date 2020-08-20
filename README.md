@@ -1,4 +1,6 @@
-# XXExploiter  
+# XXExploiter 
+
+https://securityonline.info/xxexploiter-tool-to-help-exploit-xxe-vulnerabilities/
   
 ![Build](https://github.com/luisfontes19/xxexploiter/workflows/Build/badge.svg)
 [![codecov](https://codecov.io/gh/luisfontes19/xxexploiter/branch/master/graph/badge.svg)](https://codecov.io/gh/luisfontes19/xxexploiter)
